@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>iia_logo.png</file>
+        <file>Tmt Logo.jpg</file>
+        <file>1-Arrows-Down-4-icon-001.jpg</file>
+        <file>1-Arrows-Up-4-icon-001.jpg</file>
+        <file>1-play.jpg</file>
+    </qresource>
+</RCC>
