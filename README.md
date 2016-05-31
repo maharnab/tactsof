@@ -1,6 +1,6 @@
 # tactsof
 
-Thirty-meter-telescope Actuator Control Testing SOFtware (tactsof) is a client-side GUI developed in Qt-C++ to test TMT actuator control and parameters for Linux/Windows/Embedded systems. The Server-side C application runs on an embedded board and interacts with one or multiple GUIs via the TCP/IP protocol. 
+Thirty-meter-telescope Actuator Control Testing SOFtware (tactsof) is a client-side GUI developed in Qt-C++ to test TMT actuator control and test-parameters, running on Linux/Windows/Embedded systems. The Server-side C application runs on an embedded board and interacts with one or multiple GUIs via the TCP/IP protocol. 
 
 ## Getting started
 
